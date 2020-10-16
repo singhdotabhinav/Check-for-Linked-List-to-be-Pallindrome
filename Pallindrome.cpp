@@ -12,7 +12,6 @@
  * };
  */
 class Solution {
-public:
     bool isPalindrome(ListNode* head) {
         
         stack<int> s;
